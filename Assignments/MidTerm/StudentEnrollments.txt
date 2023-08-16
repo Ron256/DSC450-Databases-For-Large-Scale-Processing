@@ -1,0 +1,10 @@
+,,,,Neural Networks and Deep Learning,Computer Science,4,
+001,Ronaldlee Ejalu,4352 One Ford Place Detroit MI,2023,,,,
+002,Abby Keller,134 HollyWood Dr Seattle WA,2022,Databases for Large Scale Analytics,CDM,4,4
+002,Abby Keller,134 HollyWood Dr Seattle WA,2022,Natural Language Processing,Computer Science,4,4
+002,Abby Keller,134 HollyWood Dr Seattle WA,2022,Python Programming,Computer Science,4,3.1
+003,Pinki Sharma,12 Michigan Avenue Chicago IL,2021,Databases for Large Scale Analytics,CDM,4,3.6
+003,Pinki Sharma,12 Michigan Avenue Chicago IL,2021,Natural Language Processing,Computer Science,4,4
+003,Pinki Sharma,12 Michigan Avenue Chicago IL,2021,Python Programming,Computer Science,4,3.1
+004,Felicia Zuri,14 Michigan Avenue Chicago IL,2021,Natural Language Processing,Computer Science,4,3.5
+004,Felicia Zuri,14 Michigan Avenue Chicago IL,2021,Python Programming,Computer Science,4,3.1
